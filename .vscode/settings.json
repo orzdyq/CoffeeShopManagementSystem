@@ -1,0 +1,13 @@
+{
+  "cmake.configureOnOpen": true,
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    "*.rmd": "markdown",
+    "stdlib.h": "c",
+    "math.h": "c",
+    "typeinfo": "c",
+    "stdio.h": "c",
+    "time.h": "c",
+    "assert.h": "c"
+  }
+}
